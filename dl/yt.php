@@ -128,14 +128,7 @@ if(!empty($mp3)){
 }
 else echo '';
 if(!empty($matches[1])){
-    echo '<iframe style="border:0px; height:45px; width:99%;" scrolling="no" src="https://dlhut.000webhostapp.com/dl/aio/?f=asMp3&vkr=https://www.youtube.com/watch?v='.$matches[1].'"></iframe>';
-} 
-else echo ''; 
-if(!empty($matches[1])){
-    echo '<iframe style="border:0px; height:45px; width:99%;" scrolling="no" src="https://dlhut.000webhostapp.com/dl/aio/?f=as360&vkr=https://www.youtube.com/watch?v='.$matches[1].'"></iframe>';
-} 
-else echo '';  if(!empty($matches[1])){
-    echo '<iframe style="border:0px; height:45px; width:99%;" scrolling="no" src="https://dlhut.000webhostapp.com/dl/aio/?f=as720&vkr=https://www.youtube.com/watch?v='.$matches[1].'"></iframe>';
+    echo '<iframe style="border:0px; height:45px; width:95%;" scrolling="no" src="https://dlhut.000webhostapp.com/dl/aio/?f=asMp3&vkr=https://www.youtube.com/watch?v='.$matches[1].'"></iframe>';
 } 
 else echo ''; 
 if(!empty($matches[1])){
