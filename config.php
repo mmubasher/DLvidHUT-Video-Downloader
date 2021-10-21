@@ -1,3 +1,3 @@
 <?php
-$domain = "https://dlhut.herokuapp.com";
+$domain = "https://DL4Hut.herokuapp.com";
 ?>

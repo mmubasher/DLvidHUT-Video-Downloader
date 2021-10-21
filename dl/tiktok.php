@@ -9,29 +9,29 @@ $e7091="Yks4ZkYrTEhJTDFoVFVCeWM0Y2cwNndRWDE0elBQa2lhQXY0bGdiLzI3ZEgwOExlTHNST05j
 <html>
 <head>
     <title>YavDL:  <?php echo $title; ?> .. </title>
-<meta name="title" content="DLHUT : Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
-<meta name="description" content="DLHUT :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
+<meta name="title" content="DL4Hut : Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta name="description" content="DL4Hut :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="keywords" content="Video,Audio, Downloader, Online, YouTube, Facebook, Twitter, TikTok, MXTakatak, All-in-One,Online Downloader,AIO,<?php echo $title; ?>">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
 <meta name="revisit-after" content="5 days">
 <meta name="author" content="TheOfficialVKr">
-<meta itemprop="name" content="DLHUT :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta itemprop="name" content="DL4Hut :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
 <meta itemprop="description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta itemprop="image" content="<?php echo $thumbux; ?>">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="DLHUT - Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta name="twitter:title" content="DL4Hut - Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
 <meta name="twitter:description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="twitter:site" content="theofficialvkr">
 <meta name="twitter:creator" content="itsmethevkr">
 <meta name="twitter:image" content="<?php echo $thumbux; ?>"> 
-<meta property="og:title" content="DLHUT :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta property="og:title" content="DL4Hut :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
 <meta property="og:description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta property="og:image" content="<?php echo $thumbux; ?>">
-<meta name="twitter:image:src" content="http://dlhut.ml/stream.php?vkr=<?php echo $thumbux; ?>">
-<meta property="og:url" content="https://dlhut.000webhostapp.com/">
-<meta property="og:site_name" content="DLHUT :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta name="twitter:image:src" content="http://dl4hut.xyz/stream.php?vkr=<?php echo $thumbux; ?>">
+<meta property="og:url" content="http://dl4hut.xyz/">
+<meta property="og:site_name" content="DL4Hut :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
 <meta property="fb:app_id" content="427710135379286">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
@@ -120,7 +120,7 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
  <video poster="<?php echo $thumba; ?>" width="100%" height="340" controls>
   <source src="<?php echo $vdl; ?>" type="video/mp4">  
   <source src="https://streamytv.herokuapp.com/stream.php?url=<?php echo urlencode($vdl); ?>" type="video/mp4">
-  <source src="http://dlhut.ml/stream.php.php/?vkr=<?php echo $lloc; ?>" type="video/mp4">
+  <source src="http://dl4hut.xyz/stream.php.php/?vkr=<?php echo $lloc; ?>" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 

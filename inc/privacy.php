@@ -4,29 +4,29 @@
 	<?php
     include("../config.php");
     ?>
-    <title>DLhut: Privacy </title>
-<meta name="title" content="DLhut: Privacy ">
-<meta name="description" content="DLHUT : Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
+    <title>DL4Hut: Privacy </title>
+<meta name="title" content="DL4Hut: Privacy ">
+<meta name="description" content="DL4Hut : Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="keywords" content="Video,Audio, Downloader, Online, YouTube, Facebook, Twitter, TikTok, MXTakatak, All-in-One,Online Downloader,AIO,">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
 <meta name="revisit-after" content="5 days">
 <meta name="author" content="TheOfficialVKr">
-<meta itemprop="name" content="DLhut: Privacy ">
+<meta itemprop="name" content="DL4Hut: Privacy ">
 <meta itemprop="description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta itemprop="image" content="<?php echo $domain; ?>/img/logo.png">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="DLhut: Privacy ">
+<meta name="twitter:title" content="DL4Hut: Privacy ">
 <meta name="twitter:description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="twitter:site" content="theofficialvkr">
 <meta name="twitter:creator" content="itsmethevkr">
 <meta name="twitter:image:src" content="<?php echo $domain; ?>/img/logo.png">
-<meta property="og:title" content="DLhut: Privacy ">
+<meta property="og:title" content="DL4Hut: Privacy ">
 <meta property="og:description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta property="og:image" content="<?php echo $domain; ?>/img/logo.png">
 <meta property="og:url" content="<?php echo $domain; ?>/">
-<meta property="og:site_name" content="DLhut: Privacy ">
+<meta property="og:site_name" content="DL4Hut: Privacy ">
 <meta property="fb:app_id" content="427710135379286">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
@@ -50,7 +50,7 @@
 <link rel="manifest" href="<?php echo $domain; ?>/inc/manifest.json">
 <script type='text/javascript'>
 if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/service-worker.js') }
-</script><script src='http://dlhut.ml/inc/downloadhelp.php'></script>
+</script><script src='http://dl4hut.xyz/inc/downloadhelp.php'></script>
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="<?php echo $domain; ?>/img/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">

