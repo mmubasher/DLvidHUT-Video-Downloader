@@ -1,5 +1,5 @@
 # DLvidHUT 
-Contact me If You Find ANy Bug ... 
+Contact me If You Find Any Bug ... 
 PHP Search and Download any Videos from any site.
 
 # Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL, Tiktok and 1000+ More Sites too
