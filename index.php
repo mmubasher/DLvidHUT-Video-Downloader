@@ -4,29 +4,29 @@
    <?php
     include("config.php");
     ?>
-<title>DL4Hut : Online All in One Video & Audio Downloader</title>
-<meta name="title" content="DL4Hut : Online All in One Video & Audio Downloader">
-<meta name="description" content="DL4Hut : Online All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
+<title>DLvidHUT : Online All in One Video & Audio Downloader</title>
+<meta name="title" content="DLvidHUT : Online All in One Video & Audio Downloader">
+<meta name="description" content="DLvidHUT : Online All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="keywords" content="Video,Audio, Downloader, Online, Videos, Facebook, Twitter, TikTok, MXTakatak, All-in-One,Online Downloader,AIO,">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="en">
 <meta name="revisit-after" content="5 days">
 <meta name="author" content="TheOfficialVKr">
-<meta itemprop="name" content="DL4Hut : Online All in One Video & Audio Downloader">
+<meta itemprop="name" content="DLvidHUT : Online All in One Video & Audio Downloader">
 <meta itemprop="description" content="Online All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta itemprop="image" content="<?php echo $domain; ?>/img/logo.png">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="DL4Hut : Online All in One Video & Audio Downloader">
+<meta name="twitter:title" content="DLvidHUT : Online All in One Video & Audio Downloader">
 <meta name="twitter:description" content="Online All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="twitter:site" content="theofficialvkr">
 <meta name="twitter:creator" content="itsmethevkr">
 <meta name="twitter:image:src" content="<?php echo $domain; ?>/img/logo.png">
-<meta property="og:title" content="DL4Hut : Online All in One Video & Audio Downloader">
+<meta property="og:title" content="DLvidHUT : Online All in One Video & Audio Downloader">
 <meta property="og:description" content="Online All in One Video & Audio Downloader from YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta property="og:image" content="<?php echo $domain; ?>/img/logo.png">
 <meta property="og:url" content="<?php echo $domain; ?>/">
-<meta property="og:site_name" content="DL4Hut : Online All in One Video & Audio Downloader">
+<meta property="og:site_name" content="DLvidHUT : Online All in One Video & Audio Downloader">
 <meta property="fb:app_id" content="427710135379286">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
@@ -81,7 +81,7 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 </head>
 <body style="word-break: break-all;" class="bg-light">
 <div class="text-center p-5">
-<a href="<?php echo $domain; ?>/">  <img alt="DL4Hut" src="<?php echo $domain; ?>/img/logo.png" width="240px" height="95px"></a>
+<a href="<?php echo $domain; ?>/">  <img alt="DLvidHUT" src="<?php echo $domain; ?>/img/logo.png" width="240px" height="95px"></a>
 </div>
 <div class="text-center">
    <h2> Paste a video url or name below and press on "Download". </h2><br><br>
@@ -112,13 +112,13 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 <div class="ftco-section center">
 <div class="title"><h1>The Best Videos Downloader</h1></div>
 <div class="txt-box">
-<p class="mw70">DL4Hut Videos Downloader helps you save Videos to your device. You can choose from a variety of formats and qualities to download.</p>
-<p class="mw70">DL4Hut is a utility website for downloading user-uploaded videos from Any Sites. First published in 2020, it has a vast, diverse, worldwide community of users. It is used by journalists and human rights organizations to save eyewitness videos, by educators to save videos for classroom use, by Videosrs to save backup copies of their own uploaded videos, and by users worldwide to watch videos on hardware that can’t run a standard web browser, or to watch videos in their full resolution over slow or unreliable Internet connections. DL4Hut stands in place of a Web browser and performs a similar function with respect to user-uploaded videos. Importantly, DL4Hut does not decrypt video streams that are encrypted with commercial DRM technologies, that are used by subscription video sites.</p>
+<p class="mw70">DLvidHUT Videos Downloader helps you save Videos to your device. You can choose from a variety of formats and qualities to download.</p>
+<p class="mw70">DLvidHUT is a utility website for downloading user-uploaded videos from Any Sites. First published in 2020, it has a vast, diverse, worldwide community of users. It is used by journalists and human rights organizations to save eyewitness videos, by educators to save videos for classroom use, by Videosrs to save backup copies of their own uploaded videos, and by users worldwide to watch videos on hardware that can’t run a standard web browser, or to watch videos in their full resolution over slow or unreliable Internet connections. DLvidHUT stands in place of a Web browser and performs a similar function with respect to user-uploaded videos. Importantly, DLvidHUT does not decrypt video streams that are encrypted with commercial DRM technologies, that are used by subscription video sites.</p>
 </div>
 <ul class="listitem items-more">
 <li>
 <div class="post-image bg1">
-<img alt="DL4Hut" src="<?php echo $domain; ?>/img/clock.svg" alt="Fast and easy to use">
+<img alt="DLvidHUT" src="<?php echo $domain; ?>/img/clock.svg" alt="Fast and easy to use">
 </div>
 <div class="post-content">
 <h3>Fast and easy to use</h3>
@@ -127,7 +127,7 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 </li>
 <li>
 <div class="post-image bg2">
-<img alt="DL4Hut" src="<?php echo $domain; ?>/img/limit.svg" alt="Without limitation">
+<img alt="DLvidHUT" src="<?php echo $domain; ?>/img/limit.svg" alt="Without limitation">
 </div>
 <div class="post-content">
 <h3>Without limitation</h3>
@@ -136,7 +136,7 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 </li>
 <li>
 <div class="post-image bg3">
-<img alt="DL4Hut" src="<?php echo $domain; ?>/img/safe.svg" alt="Safe and Clean">
+<img alt="DLvidHUT" src="<?php echo $domain; ?>/img/safe.svg" alt="Safe and Clean">
 </div>
 <div class="post-content">
 <h3>100% Safe and Clean</h3>
@@ -145,7 +145,7 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 </li>
 <li>
 <div class="post-image bg4">
-<img alt="DL4Hut" src="<?php echo $domain; ?>/img/platform.svg" alt="Full platforms supported">
+<img alt="DLvidHUT" src="<?php echo $domain; ?>/img/platform.svg" alt="Full platforms supported">
 </div>
 <div class="post-content">
 <h3>Full platforms supported</h3>
@@ -154,7 +154,7 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 </li>
 <li>
 <div class="post-image bg5">
-<img alt="DL4Hut" src="<?php echo $domain; ?>/img/support.svg" alt="Full file format supported">
+<img alt="DLvidHUT" src="<?php echo $domain; ?>/img/support.svg" alt="Full file format supported">
 </div>
 <div class="post-content">
 <h3>Full file format supported</h3>
@@ -163,7 +163,7 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 </li>
 <li>
 <div class="post-image bg6">
-<img alt="DL4Hut" src="<?php echo $domain; ?>/img/cloud.svg" alt="Cloud support">
+<img alt="DLvidHUT" src="<?php echo $domain; ?>/img/cloud.svg" alt="Cloud support">
 </div>
 <div class="post-content">
 <h3>Cloud support</h3>
@@ -191,7 +191,7 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 
         createOrder: function(data, actions) {
           return actions.order.create({
-            purchase_units: [{"description":"DL4Hut: Video Downloader Online","amount":{"currency_code":"USD","value":10}}]
+            purchase_units: [{"description":"DLvidHUT: Video Downloader Online","amount":{"currency_code":"USD","value":10}}]
           });
         },
 

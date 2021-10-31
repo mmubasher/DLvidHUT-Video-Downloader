@@ -1,4 +1,4 @@
-# DL4Hut 
+# DLvidHUT 
 Contact me If You Find ANy Bug ... 
 PHP Search and Download any Videos from any site.
 
@@ -65,7 +65,7 @@ Add Google Translate
 
 # For Any kind of Help 
 
-Demo : http://dl4hut.xyz OR https://DL4Hut.herokuapp.com
+Demo : http://dl4hut.xyz OR https://DLvidHUT.herokuapp.com
 
 Contact me On Mail      : contactvkr@yahoo.com  
 Or On Social media 

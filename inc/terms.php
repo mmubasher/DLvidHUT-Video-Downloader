@@ -4,29 +4,29 @@
        <?php
     include("../config.php");
     ?>
-    <title>DL4Hut: Terms</title>
-<meta name="title" content="DL4Hut: Terms  ">
-<meta name="description" content="DL4Hut : Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
+    <title>DLvidHUT: Terms</title>
+<meta name="title" content="DLvidHUT: Terms  ">
+<meta name="description" content="DLvidHUT : Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="keywords" content="Video,Audio, Downloader, Online, YouTube, Facebook, Twitter, TikTok, MXTakatak, All-in-One,Online Downloader,AIO,">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
 <meta name="revisit-after" content="5 days">
 <meta name="author" content="TheOfficialVKr">
-<meta itemprop="name" content="DL4Hut: Terms  ">
+<meta itemprop="name" content="DLvidHUT: Terms  ">
 <meta itemprop="description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta itemprop="image" content="<?php echo $domain; ?>/img/logo.png">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="DL4Hut: Terms  ">
+<meta name="twitter:title" content="DLvidHUT: Terms  ">
 <meta name="twitter:description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta name="twitter:site" content="theofficialvkr">
 <meta name="twitter:creator" content="itsmethevkr">
 <meta name="twitter:image:src" content="<?php echo $domain; ?>/img/logo.png">
-<meta property="og:title" content="DL4Hut: Terms  ">
+<meta property="og:title" content="DLvidHUT: Terms  ">
 <meta property="og:description" content="Online All in One Video & Audio Downloader From YouTube,Facebook,Twitter,Pinterest,Instagram,MXtakatak,IPL,HotStar and 1000+ More Sites too">
 <meta property="og:image" content="<?php echo $domain; ?>/img/logo.png">
 <meta property="og:url" content="<?php echo $domain; ?>/">
-<meta property="og:site_name" content="DL4Hut: Terms  ">
+<meta property="og:site_name" content="DLvidHUT: Terms  ">
 <meta property="fb:app_id" content="427710135379286">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
