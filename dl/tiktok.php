@@ -464,8 +464,7 @@ if(!empty($typezf)){
 }
 else echo '';    
 ?>    
-<br><a href="<?php echo $domain; ?>/dl/aio.php/?vkr=<?php echo $lloc; ?>">
-    <button style="width:100%; background:red;" class="btn btn-success">Any Error or More Format </button></a><br>
+<br>
 </h2>
   
   <h1> How to Download </h1> <br>
@@ -507,4 +506,4 @@ body > div:nth-last-of-type(1)[style]{
 img[src*="http://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] { display: none;}
 img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] { display: none;}
 </style>
-</html>  
+</html>
