@@ -107,8 +107,7 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 <h2 style="word-break: break-all;">    
 Download <?php echo $title; ?>  
 <video poster="<?php echo urldecode($thumb); ?>" width="100%" height="340" controls>
-  <source src="https://streamytv.herokuapp.com/stream.php?url=<?php echo urlencode($dla); ?>" type="video/mp4">   
-  <source src="<?php echo $dla; ?>" type="video/mp4">
+    <source src="<?php echo $dla; ?>" type="video/mp4">
     <source src="<?php echo $vpdl; ?>" type="video/mp4"> 
  <source src="<?php echo $dlb; ?>" type="video/mp4">
   <source src="<?php echo $dlc; ?>" type="video/mp4">  
