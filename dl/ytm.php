@@ -5,13 +5,10 @@ function convert_seconds($seconds)
   $dt2 = new DateTime("@$seconds");
   return $dt1->diff($dt2)->format('%h hours, %i minutes and %s seconds');
   }
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-
 <style type="text/css">
 img[src*="000webhost"][style],
 body > div:nth-last-of-type(1)[style]{
@@ -32,13 +29,9 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
   $domvkr = "https://$_SERVER[HTTP_HOST]";
   $lgvkr ="https://$_SERVER[HTTP_HOST]/logo.png"; 
   $year = date("Y"); 
-//include("../config.php");
-  $domain = "http://dl4hut.xyz";
-    $title = $tvkr;
+  include("../config.php");
+  $title = $tvkr;
   ?>
-
-
-
 <meta charset="utf-8">  
 <style>
 .footer {
