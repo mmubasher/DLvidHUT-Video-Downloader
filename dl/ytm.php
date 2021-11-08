@@ -32,7 +32,9 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
   $domvkr = "https://$_SERVER[HTTP_HOST]";
   $lgvkr ="https://$_SERVER[HTTP_HOST]/logo.png"; 
   $year = date("Y"); 
-include("../config.php");
+//include("../config.php");
+  $domain = "http://dl4hut.xyz";
+    $title = $tvkr;
   ?>
 
 
@@ -189,7 +191,6 @@ $e7091="dGpEZU90cThqM2YveUpBTG9tRGZBbk1LTGxDbThRWmtVdXRvMlNTVmlaY1VPVkx4NEpra3ZK
 <center>
  <title>DL4Hut : Search Result For <?php echo $lloc; ?></title>
  
-
 <?php
 if (!empty($sid0)) {
  echo '<div class="w3-container">
@@ -443,28 +444,19 @@ if (!empty($sid17)) {
 <img width="51%" src="'.$simage17.'"><br><p>'.$salbum17.'</p><p>'.$ssinger17.'</p><p>'.$sartist17.'</p> <p> <h3>'.$stitle17.'</h3> </p> <p> '.convert_seconds($surl17).'</p><br><br><a  class="button button4"  href="'.$domain.'/dl/ytmdl.php/?vkr=https://youtube.com/watch?v='.$sid17.'"> Download Now </a>
  </div><br>';
 } 
-
 else 
-      echo '';
-
-                   
- ?>
-   
+      echo '';                 
+ ?> 
 <br>
-
 <?php
 if (!empty($sid18)) {
  echo '<div class="w3-container">
 <img width="51%" src="'.$simage18.'"><br><p>'.$salbum18.'</p><p>'.$ssinger18.'</p><p>'.$sartist18.'</p> <p> <h3>'.$stitle18.'</h3> </p> <p> '.convert_seconds($surl18).'</p><br><br><a  class="button button4"  href="'.$domain.'/dl/ytmdl.php/?vkr=https://youtube.com/watch?v='.$sid18.'"> Download Now </a>
  </div><br>';
 } 
-
 else 
-      echo '';
-
-                   
+      echo '';                 
  ?>
-   
 <br>
 
 <?php
@@ -473,29 +465,19 @@ if (!empty($sid19)) {
 <img width="51%" src="'.$simage19.'"><br><p>'.$salbum19.'</p><p>'.$ssinger19.'</p><p>'.$sartist19.'</p> <p> <h3>'.$stitle19.'</h3> </p> <p> '.convert_seconds($surl19).'</p><br><br><a  class="button button4"  href="'.$domain.'/dl/ytmdl.php/?vkr=https://youtube.com/watch?v='.$sid19.'"> Download Now </a>
  </div><br>';
 } 
-
 else 
-      echo '';
-
-                   
- ?>
-   
+      echo '';                 
+ ?>  
 <br>
-
 <?php
 if (!empty($sid20)) {
  echo '<div class="w3-container">
 <img width="51%" src="'.$simage20.'"><br><p>'.$salbum20.'</p><p>'.$ssinger20.'</p><p>'.$sartist20.'</p> <p> <h3>'.$stitle20.'</h3> </p> <p> '.convert_seconds($surl20).'</p><br><br><a  class="button button4"  href="'.$domain.'/dl/ytmdl.php/?vkr=https://youtube.com/watch?v='.$sid20.'"> Download Now </a>
  </div><br>';
 } 
-
 else 
       echo '';
-
-                   
- ?>
-   
-   
+?> 
 </h2>
   <br>
   <h1> How to Download </h1> <br>
@@ -537,6 +519,5 @@ body > div:nth-last-of-type(1)[style]{
 img[src*="http://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] { display: none;}
 img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] { display: none;}
 </style>
-
 </body>
 </html>
