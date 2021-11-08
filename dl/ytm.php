@@ -29,8 +29,9 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
   $domvkr = "https://$_SERVER[HTTP_HOST]";
   $lgvkr ="https://$_SERVER[HTTP_HOST]/logo.png"; 
   $year = date("Y"); 
-  include("../config.php");
+  //include("../config.php");
   $title = $tvkr;
+  $domain = "/";
   ?>
 <meta charset="utf-8">  
 <style>
