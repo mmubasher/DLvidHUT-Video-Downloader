@@ -7,6 +7,7 @@ $e7091="Yks4ZkYrTEhJTDFoVFVCeWM0Y2cwM0xacWRLNWNyNGVobGQ1amJEeUFGOFc1VTkyb0l1Tko5
 if(!empty($thumb)){
     $thumbux = $thumb;
 } else $thumbux = "http://dl4hut.xyz/img/logo.png";
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -106,41 +107,42 @@ if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/inc/servi
 Download : <?php echo $title; ?> <?php echo $error; ?>  
 </h2> 
 <br>
-<video poster="<?php echo $thumbux; ?>" width="100%" height="340" controls>
- <source src="http://dl4hut.xyz/stream.php?vkr=<?php echo $lloc; ?>" type="video/mp4">
- <source src="https://alltubedownload.net/download?url=<?php echo $lloc; ?>" type="video/mp4">
- <source src="https://thingproxy.freeboard.io/fetch/https://www.youtube-nocookie.com/embed/<?php echo $matches[1]; ?>" type="video/mp4">
-   Your browser does not support the video tag.
-</video> 
+<object  width="100%" height="360">
+    <param name="movie" value="https://www.youtube-nocookie.com/embed/<?php echo $matches[1]; ?>?html5=1&amp;rel=0&amp;hl=en_US&amp;version=3"/
+    <param name="allowFullScreen" value="true"/>
+    <param name="allowscriptaccess" value="always"/>
+    <embed width="100%" height="360" src="https://www.youtube-nocookie.com/embed/<?php echo $matches[1]; ?>?html5=1&amp;rel=0&amp;hl=en_US&amp;version=3" class="youtube-player" type="text/html" allowscriptaccess="always" allowfullscreen="true"/>
+</object>
+
 <br>
 Audio Format
 <?php
 
 if(!empty($title)){
-    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="http://dl4hut.xyz/dl/btn.php/?f=mp3&vkr=https://youtu.be/'.$matches[1].'"></iframe><br>';
+    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="//dl4hut.xyz/dl/btn.php/?f=mp3&vkr=https://youtu.be/'.$matches[1].'"></iframe><br>';
 }
 else echo ''; 
 
 
 if(!empty($m4a)){
-    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="http://dl4hut.xyz/dl/btn.php/?f=m4a&vkr=https://youtu.be/'.$matches[1].'">
+    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="//dl4hut.xyz/dl/btn.php/?f=m4a&vkr=https://youtu.be/'.$matches[1].'">
 </iframe><br>';
 }
 else echo ''; 
 
  if(!empty($matches[1])){
-    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="http://dl4hut.xyz/dl/btn.php/?f=webm&vkr=https://youtu.be/'.$matches[1].'">
+    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="//dl4hut.xyz/dl/btn.php/?f=webm&vkr=https://youtu.be/'.$matches[1].'">
 </iframe><br>';
 }
 else echo ''; 
  if(!empty($matches[1])){
-    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="http://dl4hut.xyz/dl/btn.php/?f=wav&vkr=https://youtu.be/'.$matches[1].'">
+    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="//dl4hut.xyz/dl/btn.php/?f=wav&vkr=https://youtu.be/'.$matches[1].'">
 </iframe><br>';
 }
 else echo ''; 
 ?>
     
-<br><a href="<?php echo $domain; ?>/yt.php/?vkr=<?php echo $lloc; ?>">
+<br><a href="<?php echo $domain; ?>/dl/yt.php/?vkr=<?php echo $lloc; ?>">
 <button style="width:100%; background:red;"  class="btn btn-success"> More Format </button></a><br>  
 </h2><br>
     <h1> How to Download </h1> <br>
