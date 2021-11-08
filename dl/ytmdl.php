@@ -119,24 +119,24 @@ Audio Format
 <?php
 
 if(!empty($title)){
-    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="https://dlvkrhut.herokuapp.com/api/button/aio.php/?f=mp3&vkr=https://youtu.be/'.$matches[1].'"></iframe><br>';
+    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="https://dlvkrhut.herokuapp.com/button/aio.php/?f=mp3&vkr=https://youtu.be/'.$matches[1].'"></iframe><br>';
 }
 else echo ''; 
 
 
 if(!empty($m4a)){
-    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="https://dlvkrhut.herokuapp.com/api/button/aio.php/?f=m4a&vkr=https://youtu.be/'.$matches[1].'">
+    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="https://dlvkrhut.herokuapp.com/button/aio.php/?f=m4a&vkr=https://youtu.be/'.$matches[1].'">
 </iframe><br>';
 }
 else echo ''; 
 
  if(!empty($matches[1])){
-    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="https://dlvkrhut.herokuapp.com/api/button/aio.php/?f=webm&vkr=https://youtu.be/'.$matches[1].'">
+    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="https://dlvkrhut.herokuapp.com/button/aio.php/?f=webm&vkr=https://youtu.be/'.$matches[1].'">
 </iframe><br>';
 }
 else echo ''; 
  if(!empty($matches[1])){
-    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="https://dlvkrhut.herokuapp.com/api/button/aio.php/?f=wav&vkr=https://youtu.be/'.$matches[1].'">
+    echo '<iframe style="width:96%; height:55px; border:0px;" scrolling="no" src="https://dlvkrhut.herokuapp.com/button/aio.php/?f=wav&vkr=https://youtu.be/'.$matches[1].'">
 </iframe><br>';
 }
 else echo ''; 
